@@ -1,0 +1,76 @@
+  @import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Montserrat:wght@100&family=Outfit:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+    display: block;
+    
+}
+
+body {
+    background-color: rgb(54, 45, 173);
+}
+
+.logo {
+    margin: 15px;
+    height: 30px;
+    width: 50px;
+   
+}
+
+.links li {
+    display: inline-block;
+    margin: 15px;
+    padding: 15px;
+    position: relative;
+    background-color: rgb(85, 85, 221);
+    
+}
+
+h1 {
+    margin: 50px 0px 30px 30px;
+    padding: 15px;
+    background-color: rgb(7, 7, 105);
+    display: inline-block;
+    color: white;
+}
+
+.goles {
+    margin: 20px;
+    
+}
+
+h2 {
+    margin: 50px 0px 30px 30px;
+    padding: 15px;
+    background-color: rgb(7, 7, 105);
+    display: inline-block;
+    color: white;
+}
+
+.posiciones {
+    margin: 20px;
+    height: 800px;
+    width: 700px;
+}
+
+.redes a {
+    display: inline-block;
+}
+
+.redes li {
+    display: inline-block;
+}
+
+.facebook {
+    height: 42px;
+    margin: 15px;
+    
+}
+
+.instagram {
+    height: 35px;
+    margin: 15px;
+    
+}
